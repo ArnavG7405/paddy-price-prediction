@@ -166,9 +166,6 @@ paddy-price-prediction/
 │       └── README.md                       # Frontend-specific documentation
 ├── data/
 │   └── sample_paddy_prices.csv             # Sample dataset for demonstration
-├── models/
-│   └── (optional saved ARIMA/SARIMA models in .pkl or .joblib format)
-├── serve_model.py                          # Optional: Backend API for model serving
 ├── requirements.txt                        # Python package dependencies
 └── README.md                               # Main project documentation
 ```
