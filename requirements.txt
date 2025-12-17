@@ -1,0 +1,10 @@
+# For Notebook
+pandas==2.x.x
+numpy==1.x.x
+scikit-learn==1.x.x
+matplotlib==3.x.x
+seaborn==0.x.x
+
+# For Application
+google-generativeai==0.x.x
+streamlit==1.x.x 

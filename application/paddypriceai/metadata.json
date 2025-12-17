@@ -1,0 +1,5 @@
+{
+  "name": "PaddyPriceAI",
+  "description": "A robust offline forecasting system for predicting paddy prices across major Indian states using ARIMA-based models, as outlined in the project report.",
+  "requestFramePermissions": []
+}
