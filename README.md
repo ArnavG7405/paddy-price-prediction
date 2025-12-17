@@ -2,6 +2,12 @@
 
 A comprehensive time-series forecasting project that predicts paddy (rice) prices across major Indian states using ARIMA, SARIMA, and ARIMAX models, with an interactive web interface for exploring forecasts, trends, and seasonal patterns.
 
+![Stakeholder Insights Interface Screenshot](https://github.com/ArnavG7405/paddy-price-prediction/blob/master/Stakeholder%20Insights%20Interface%20Screenshot.png?raw=true)
+---
+![Monthly Price Pattern Visualization Screenshot](https://github.com/ArnavG7405/paddy-price-prediction/blob/master/Monthly%20Price%20Pattern%20Visualization%20Screenshot.png?raw=true)
+---
+![Multi-Dimensional Price Analytics Dashboard Screenshot](https://github.com/ArnavG7405/paddy-price-prediction/blob/master/Multi-Dimensional%20Price%20Analytics%20Dashboard%20Screenshot.png?raw=true)
+
 ## Table of Contents
 
 - [Overview](#overview)
