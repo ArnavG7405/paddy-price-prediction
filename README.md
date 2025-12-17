@@ -144,7 +144,8 @@ Incorporates external variables (rainfall, policy changes, input costs) alongsid
 ```text
 paddy-price-prediction/
 ├── notebook/
-│   └── paddy_price_prediction.ipynb          # Main Jupyter notebook (Google Colab compatible)
+│   └── paddy_price_prediction_model.ipynb          # Main Jupyter notebook (Google Colab compatible)
+│   └── paddy_price_prediction_model.py
 ├── application/
 │   └── paddypriceai/                        # React + Vite frontend application
 │       ├── src/
@@ -174,6 +175,9 @@ paddy-price-prediction/
 │   └── sample_paddy_prices.csv             # Sample dataset for demonstration
 ├── requirements.txt                        # Python package dependencies
 └── README.md                               # Main project documentation
+└── Monthly Price Pattern Visualization Screenshot  # Application Screenshot
+└── Multi-Dimensional Price Analytics Dashboard Screenshot  # Application Screenshot
+└── Stakeholder Insights Interface Screenshot       # Application Screenshot
 ```
 
 ---
